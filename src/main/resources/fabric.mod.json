@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"rajo.mirishe.RajoMirishe"
+          "net.RajoMirishe"
 		],
 		"fabric-datagen": [
-			"rajo.mirishe.RajoMirisheDataGenerator"
+          "net.RajoMirisheDataGenerator"
 		],
         "client-entrypoint": [
           "rajo.mirishe.ModClient"
